@@ -26,6 +26,10 @@ elventh update~~
 
 15:after the new branch-dev—
 
+<<<<<<< HEAD
 16:by dev  在分支dev上工作，保存当前工作，解决1号bug
 
 17:by master 紧急修复了1号bug
+=======
+16:by dev 保存当前工作，解决2号bug
+>>>>>>> dev
